@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a passionate final-year Computer Science student from 
 ## 🚀 About Me
 
 - 🎓 Currently pursuing a B.E. in Computer Science and Engineering at SCADCET (2022 - 2025)
-- 💻 Experienced with web development (React.js, Node.js, HTML, CSS, JavaScript, SQL)
+- 💻 Experienced with web development (React.js,  HTML, CSS, JavaScript, SQL)
 - 🌱 Continuously learning and improving my skills in both front-end and back-end development
 - 🔍 Passionate about problem-solving and algorithms (LeetCode 90+ problems solved)
 
