@@ -42,7 +42,7 @@ Welcome to my GitHub! I'm a passionate final-year Computer Science student from 
 ### [Course Selling Website](https://github.com/veroni63/coursesellproject) (Jul 2024) [View 🔗](https://course-selling-platform.netlify.app/)
 - Designed a course-selling platform using HTML, CSS, JavaScript, and Bootstrap. Automated email communication using EmailJS for seamless interactions.
 
-### [Static Chatbot Design](https://github.com/veroni63/static-chatbot-design) (Feb 2024)
+### [Static Chatbot Design](https://github.com/veroni63/static-chatbot-design) (Feb 2024) [View 🔗]( https://static-chatbot-design.netlify.app/) 
 - Built a static chatbot using HTML, CSS, and JavaScript with predefined question-response functionality for an enhanced user experience.
 
 ## 📚 Certifications
