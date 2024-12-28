@@ -6,8 +6,10 @@ Welcome to my GitHub! I'm a passionate final-year Computer Science student from 
 
 - 🎓 Currently pursuing a B.E. in Computer Science and Engineering at SCADCET (2022 - 2025)
 - 💻 Experienced with web development (React.js, Node.js, HTML, CSS, JavaScript, SQL)
-- 🔍 Passionate about problem-solving and algorithms (LeetCode 86+ problems solved)
 - 🌱 Continuously learning and improving my skills in both front-end and back-end development
+- 🔍 Passionate about problem-solving and algorithms (LeetCode 90+ problems solved)
+
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/veronikka_120?theme=dark)](https://leetcode.com/veronikka_120/)
 
 ## 🌟 My Skills
 
@@ -57,6 +59,9 @@ Feel free to check out my repositories and connect with me for any collaboration
 - 📧 Email: [veronikka.dev@gmail.com](mailto:veronikka.dev@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/veronikka-a-88048424b](https://linkedin.com/in/veronikka-a-88048424b)
 - 👨‍💻 GitHub: [github.com/veroni63](https://github.com/veroni63)
+
+
+
 
 ---
 
