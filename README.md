@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm a passionate final-year Computer Science student from 
 ### [Tender Management System](https://github.com/veroni63/tender-management-system) (Aug 2024)
 - A responsive web application built with React.js, Node.js, and SQL to manage tenders efficiently. Features include user authentication, tender submissions, and real-time updates.
 
-### [Admin DashBoard](https://github.com/veroni63/admin-dashboard) (Aug 2024) [View 🔗](https://admin-dashboardmanagement.netlify.app/)
+### [Admin DashBoard](https://github.com/veroni63/admin-dashboard) (Aug 2024) [Desk Top View 🔗](https://admin-dashboardmanagement.netlify.app/)
 - A responsive web application built with React.js, Node.js, and SQL to manage tenders efficiently. Features include user authentication, tender submissions, and real-time updates.
 
 ### [Course Selling Website](https://github.com/veroni63/coursesellproject) (Jul 2024) [View 🔗](https://course-selling-platform.netlify.app/)
