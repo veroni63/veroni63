@@ -11,16 +11,6 @@ Welcome to my GitHub! I'm a passionate final-year Computer Science student from 
 
   [![LeetCode Stats](https://leetcard.jacoblin.cool/veronikka_120?theme=dark)](https://leetcode.com/veronikka_120/)
 
-## 🌟 My Skills
-
-### Programming Languages
-- Java, JavaScript, C
-
-### Front-End Development
-- HTML, CSS, Bootstrap, React.js, Material UI
-
-### Problem-Solving
-- Data Structures and Algorithms
 
 ## 🧑‍💻 Experience
 
